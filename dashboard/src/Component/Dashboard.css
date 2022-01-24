@@ -1,0 +1,27 @@
+
+  nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background-color: #75898c;
+    color: #c9def0;
+  }
+  .nav-links{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+  }
+  .shop-ul{
+    list-style: none;
+    padding: 0;
+    color: #1f17178c;
+    
+  }
+ .blog-content{
+   color: #1f17178c;
+   text-align: justify;
+   padding: 7px;
+ }
