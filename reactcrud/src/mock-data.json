@@ -1,0 +1,38 @@
+
+[
+    {
+      "id": 1,
+      "fullName": "Jacky Chan",
+      "address": " kakkanad",
+      "phoneNumber": "8822928922",
+      "email": "jacky.chan@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessi warren",
+      "address": " kaloor",
+      "phoneNumber": "8755527382",
+      "email": "jessi.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony kuttan",
+      "address": " ernakulam",
+      "phoneNumber": "7875467892",
+      "email": "tony.kuttan@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "aju anna marry",
+      "address": "vazhakala",
+      "phoneNumber": "9999838991",
+      "email": "aju.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raynold koch",
+      "address": "fort kochi",
+      "phoneNumber": "9728483538",
+      "email": "raynold.koch@email.com"
+    }
+  ]
